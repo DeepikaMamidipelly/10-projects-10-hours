@@ -1,9 +1,8 @@
-# 10 Projects in 10 Hours
+# Javascript Projects
 
 
-I took on a challenge to completed 10 Projects in 10 Hours while streaming everything on [Twitch](https://twitch.tv/florinpop17).
 
-You can find the projects [here](https://10projects10hours.netlify.app/).
+
 
 1. Countdown Timer
 
