@@ -12,7 +12,7 @@ addBtn.addEventListener("click", () => {
     addNewNote();
 });
 
-function addNewNote(text = "") {
+function addNewNote(text = "") {{}
     const note = document.createElement("div");
     note.classList.add("note");
 

@@ -1,0 +1,24 @@
+body{
+    background-color: #b8c6db;
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+*{
+    box-sizing: border-box;
+  
+}
+
+.quiz-container{
+    background-color: #fff;
+    border-radius: 10px;
+    width:300px;
+    box-shadow:0 0 10px 5px rgba(0, 0, 0, 0.1);
+}
+
+li{
+    align-self: center;
+}
